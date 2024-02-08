@@ -1,6 +1,6 @@
 # Menghitung Nilai Rata-Rata
 
-<p align="center"><img src="View.png" width="700px" alt="Tampilan Aplikasi"></a></p>
+<p align="center"><img src="Output.PNG" width="700px" alt="Output"></a></p>
 
 ## Tech
 
